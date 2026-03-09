@@ -108,4 +108,3 @@ Activty Main.Xml
 
 ## RESULT:
 Thus, the energy consumption calculator app is developed and the output is verified. 
-
